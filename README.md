@@ -1,2 +1,4 @@
 # Course_Project
-Getting and Cleaning Data 
+This repository contains all of the relevant files for my Getting and Cleaning Data Course Project 
+
+
