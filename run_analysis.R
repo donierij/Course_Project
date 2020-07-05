@@ -75,6 +75,7 @@ library(tidyr)
 ds2ver <- gather(ds2, key = "variable", value = "average", 3:88)
 
 
+write.table(ds2,file = "courseprojec_tidydata.txt", row.names = FALSE)
 
 
         
